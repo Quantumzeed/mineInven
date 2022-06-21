@@ -1,13 +1,11 @@
-import { StyleSheet, Text, View, StatusBar } from 'react-native'
+import { StyleSheet, Text, View } from 'react-native'
 import React from 'react'
 
 const ItemDetail = ({ navigation }) => {
   return (
-    <StatusBar barStyle="light-content">
-      <View style={styles.container}>
-        <Text>ItemDetail</Text>
-      </View>
-    </StatusBar>
+    <View>
+      <Text>ItemDetail test</Text>
+    </View>
   )
 }
 
