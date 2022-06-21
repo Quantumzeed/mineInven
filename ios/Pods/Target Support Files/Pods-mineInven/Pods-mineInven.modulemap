@@ -1,0 +1,6 @@
+module Pods_mineInven {
+  umbrella header "Pods-mineInven-umbrella.h"
+
+  export *
+  module * { export * }
+}
