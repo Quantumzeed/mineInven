@@ -4,7 +4,7 @@ import React from 'react'
 const ItemDetail = ({ navigation }) => {
   return (
     <StatusBar barStyle="light-content">
-      <View>
+      <View style={styles.container}>
         <Text>ItemDetail</Text>
       </View>
     </StatusBar>
@@ -13,4 +13,9 @@ const ItemDetail = ({ navigation }) => {
 
 export default ItemDetail
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+  },
+})
