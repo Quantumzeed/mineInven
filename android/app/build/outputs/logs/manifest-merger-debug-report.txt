@@ -14,6 +14,7 @@ MERGED from [:react-native-screens] /Users/quantum/Desktop/Project/ReactNative/m
 MERGED from [com.facebook.react:react-native:0.68.2] /Users/quantum/.gradle/caches/transforms-3/7d9d92dc8ec1ba2e45aff2ecbb549550/transformed/jetified-react-native-0.68.2/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantum/.gradle/caches/transforms-3/6ca4772dc16ee0aa26e0cc717aaeee42/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r250230] /Users/quantum/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/quantum/Desktop/Project/ReactNative/mineInven/node_modules/react-native-reanimated/android/build/.transforms/573b7b6a951cf06b33c29cf64933d225/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantum/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/quantum/.gradle/caches/transforms-3/48655c27af2d8105f1ca68a72c6d2d94/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/quantum/.gradle/caches/transforms-3/955859de3514d49daf50e48783988c6b/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
@@ -177,6 +178,8 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantu
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/quantum/.gradle/caches/transforms-3/6ca4772dc16ee0aa26e0cc717aaeee42/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [org.webkit:android-jsc:r250230] /Users/quantum/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
 MERGED from [org.webkit:android-jsc:r250230] /Users/quantum/.gradle/caches/transforms-3/b26b48339e296557281f3d12b79a5a5f/transformed/jetified-android-jsc-r250230/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/quantum/Desktop/Project/ReactNative/mineInven/node_modules/react-native-reanimated/android/build/.transforms/573b7b6a951cf06b33c29cf64933d225/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/quantum/Desktop/Project/ReactNative/mineInven/node_modules/react-native-reanimated/android/build/.transforms/573b7b6a951cf06b33c29cf64933d225/transformed/jetified-react-native-reanimated-68-jsc/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantum/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/quantum/.gradle/caches/transforms-3/f1204f1df4399a7f5bba753264d308f1/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/quantum/.gradle/caches/transforms-3/48655c27af2d8105f1ca68a72c6d2d94/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
