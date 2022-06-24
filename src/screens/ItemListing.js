@@ -1,9 +1,10 @@
 import { StyleSheet, Text, View, Button, SafeAreaView } from 'react-native'
 import React from 'react'
+import { colors } from '../themes/MainTheme'
 
 const ItemListing = ({ navigation }) => {
   return (
-    <SafeAreaView>
+    <SafeAreaView style={styles.container}>
       <Text>ItemListing</Text>
       <Button
         title="Go to Item Detail"
@@ -15,4 +16,11 @@ const ItemListing = ({ navigation }) => {
 
 export default ItemListing
 
-const styles = StyleSheet.create({})
+const styles = StyleSheet.create({
+  container: {
+    backgroundColor: colors.medium,
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+})

@@ -1,9 +1,10 @@
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native'
 import React from 'react'
+import { colors } from '../themes/MainTheme'
 
 const DashBorad = () => {
   return (
-    <SafeAreaView>
+    <SafeAreaView style={styles.container}>
       <Text>DashBorad</Text>
     </SafeAreaView>
   )
@@ -12,5 +13,10 @@ const DashBorad = () => {
 export default DashBorad
 
 const styles = StyleSheet.create({
-  container: {},
+  container: {
+    backgroundColor: colors.primary,
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
 })

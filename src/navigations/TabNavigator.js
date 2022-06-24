@@ -11,13 +11,17 @@ const Tab = createBottomTabNavigator()
 const TabNavigator = () => {
   return (
     <Tab.Navigator
-      screenOptions={{ headerShown: false }}
+      screenOptions={{
+        headerShown: false,
+        // tabBarActiveTintColor: 'red',
+        // tabBarActiveBackgroundColor: 'green',
+      }}
       initialRouteName="DashBorad">
       <Tab.Screen name="DashBorad" component={DashBorad} />
       <Tab.Screen name="Item" component={ItemStack} />
       <Tab.Screen name="Add" component={AddItem} />
-      <Tab.Screen name="Profile" component={Profile} />
       <Tab.Screen name="Donate" component={Donate} />
+      <Tab.Screen name="Profile" component={Profile} />
     </Tab.Navigator>
   )
 }

@@ -8,7 +8,7 @@ const Stack = createNativeStackNavigator()
 const ItemStack = () => {
   return (
     <Stack.Navigator
-      screenOptions={{ headerShown: false }}
+      screenOptions={{ headerShown: false, presentation: 'modal' }}
       initialRouteName="ItemListing">
       <Stack.Screen name="ItemListing" component={ItemListing} />
       <Stack.Screen name="ItemDetail" component={ItemDetail} />
