@@ -15,6 +15,16 @@ const TabNavigator = () => {
         headerShown: false,
         // tabBarActiveTintColor: 'red',
         // tabBarActiveBackgroundColor: 'green',
+        // tabBarActiveBackgroundColor: 'blue',
+        // tabBarLabelStyle: { opacity: 0.5 },
+        // tabBarInactiveBackgroundColor: { opacity: 0.5 },
+        tabBarVisible: false,
+
+        tabBarStyle: {
+          // backgroundColor: 'red',
+          opacity: 0.9,
+          position: 'absolute',
+        },
       }}
       initialRouteName="DashBorad">
       <Tab.Screen name="DashBorad" component={DashBorad} />
